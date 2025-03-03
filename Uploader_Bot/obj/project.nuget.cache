@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "N/evBLRMYRUAfG9T9vuDguxLrDyw5lGUThsqhRzkNK27DcKYlwYQpD7HRQ+siN7R5Z6tjRRqRapwl8IBlzVKqg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C#\\Bots\\Uploader_Bot\\Uploader_Bot\\Uploader_Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azizi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\azizi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\azizi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\azizi\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\azizi\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\azizi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\azizi\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\azizi\\.nuget\\packages\\telegram.bot\\22.4.4\\telegram.bot.22.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
